@@ -1,1 +1,1 @@
-# snackpack-problem
+## Knapsack problem
